@@ -1,0 +1,17 @@
+﻿빌드 시작: 2017-12-05 오후 5:05:58
+     1>2 노드의 "C:\Users\User\Desktop\HW06_3뼈대_pak\HW06-3\HW06-3.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\HW06-3.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         모든 출력이 최신 상태입니다.
+         HW06-3.vcxproj -> C:\Users\User\Desktop\HW06_3뼈대_pak\Debug\HW06-3.exe
+       FinalizeBuildStatus:
+         "Debug\HW06-3.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\HW06-3.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\User\Desktop\HW06_3뼈대_pak\HW06-3\HW06-3.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.03
